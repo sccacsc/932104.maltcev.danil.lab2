@@ -1,0 +1,19 @@
+div{
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+#green{
+    padding:0px;
+    width: 466px;
+    line-height: 20px;
+}
+
+#blue{
+    border: solid 8px blue;
+    padding: 50px;
+    width: 350px;
+    height: 300px;
+}

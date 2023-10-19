@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a:link    {color:yellow; text-decoration:underline}
+
+section{
+    overflow: auto;
+}
+
+#header{
+    background-color:lightgray;
+    font-size:xx-large;
+    height: 80px;
+}
+
+#sidebar{
+    background-color:#C8FC98;
+    float: left;
+    width: 200px;
+    padding: 8px;
+}
+
+#main{
+    position: fluid;
+    margin-left: 220px;
+    padding: 8px;
+    
+}
+
+#footer{
+    background-color:black; 
+    text-align:center;    
+    padding: 0.5%;
+}
